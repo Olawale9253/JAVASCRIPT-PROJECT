@@ -1,0 +1,5 @@
+function userNameAndPasswordValidate(name, password){
+
+
+
+}

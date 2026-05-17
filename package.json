@@ -1,5 +1,27 @@
 {
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "name": "javascript-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Age.js",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olawale9253/JAVASCRIPT-PROJECT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Olawale9253/JAVASCRIPT-PROJECT/issues"
+  },
+  "homepage": "https://github.com/Olawale9253/JAVASCRIPT-PROJECT#readme"
 }
